@@ -31,3 +31,4 @@ C:\Users\drid\Desktop\Modul 02\Abgaben\PoC_Projekte\ApiBackend\ApiBackend\obj\De
 C:\Users\drid\Desktop\Modul 02\Abgaben\PoC_Projekte\ApiBackend\ApiBackend\obj\Debug\net10.0\ApiBackend.pdb
 C:\Users\drid\Desktop\Modul 02\Abgaben\PoC_Projekte\ApiBackend\ApiBackend\obj\Debug\net10.0\ApiBackend.genruntimeconfig.cache
 C:\Users\drid\Desktop\Modul 02\Abgaben\PoC_Projekte\ApiBackend\ApiBackend\obj\Debug\net10.0\ref\ApiBackend.dll
+C:\Users\drid\Desktop\Modul 02\Abgaben\PoC_Projekte\ApiBackend\ApiBackend\obj\Debug\net10.0\ApiBackend.sourcelink.json

@@ -11,7 +11,7 @@ builder.Services.AddHttpClient("ExternalApiClient", client =>
     // Setzt ein Timeout für externe API-Anfragen.
     client.Timeout = TimeSpan.FromSeconds(50);
 
-    // Setzt einen einfachen User-Agent für externe APIs.
+    // Setzt einen einfachen User-Agenten für externe APIs.
     client.DefaultRequestHeaders.UserAgent.ParseAdd("DataAggregatorPoC/1.0");
 });
 
@@ -52,7 +52,7 @@ app.MapGet("/api/sources", (ApiSourceRepository repository) =>
 // Führt eine vordefinierte API-Quelle aus.
 app.MapGet("/api/sources/{id:int}/fetch",
     async (
-        int id,
+        int id, 
         ApiSourceRepository repository,
         ApiRequestService apiRequestService,
         CancellationToken cancellationToken) =>
