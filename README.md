@@ -1,4 +1,4 @@
-\# PoC 3 – Konfigurierbare API-Abfragen
+# PoC 3 – Konfigurierbare API-Abfragen
 
 
 
@@ -6,7 +6,7 @@ Dieser PoC testet externe API-Abfragen über eine ASP.NET Core Minimal API und `
 
 
 
-\## Test
+## Test
 
 
 
@@ -38,7 +38,7 @@ Das Programm mit `Strg + C` beenden.
 
 
 
-\## Erwartetes Ergebnis
+## Erwartetes Ergebnis
 
 
 
